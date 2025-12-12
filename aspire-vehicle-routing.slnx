@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="aspire-vehicle-routing.ApiService/aspire-vehicle-routing.ApiService.csproj" />
+  <Project Path="aspire-vehicle-routing.AppHost/aspire-vehicle-routing.AppHost.csproj" />
+  <Project Path="aspire-vehicle-routing.ServiceDefaults/aspire-vehicle-routing.ServiceDefaults.csproj" />
+  <Project Path="aspire-vehicle-routing.Web/aspire-vehicle-routing.Web.csproj" />
+</Solution>
